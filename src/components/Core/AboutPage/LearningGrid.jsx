@@ -1,5 +1,5 @@
 import CTAButton from "../Homepage/CTAButton";
-import HightlightText from "../HomePage/HighlightText";
+import HighlightText from "../HomePage/HighlightText";
 
 const LearningGridArray = [
   {
